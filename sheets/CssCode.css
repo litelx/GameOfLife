@@ -1,0 +1,15 @@
+#mCnvs{
+margin: 10px;
+padding: 10px;
+border-style: solid;
+border-color: #ff0ff0;
+
+}
+
+.cell{
+    margin: 8px;
+    padding: 8px;
+    height: 120px;
+    width: 80px;
+
+}
